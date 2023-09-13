@@ -1,6 +1,6 @@
 Chat stats (timezone UTC-4): [https://ahiijny.github.io/tetris-survivor/stats](https://ahiijny.github.io/tetris-survivor/stats)
 
-- Generated using [https://github.com/mlomb/chat-analytics](https://github.com/mlomb/chat-analytics)
+Generated using [chatanalytics.app](https://github.com/mlomb/chat-analytics).
 
 ## Additional links
 
